@@ -1,1 +1,1 @@
-# the-meal-app react-native
+# the-meal-app-react-native
